@@ -1,0 +1,35 @@
+{
+  "name": "withby",
+  "displayName": "WithBy",
+  "version": "1.0.0",
+  "description": "Washington's mountain-pass conditions, checked every few minutes, and hundreds of short stories about the places along the road, told by Sal, WithBy's narrator.",
+  "author": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com",
+    "url": "https://yojowa.com"
+  },
+  "homepage": "https://withby.ai/assistants",
+  "repository": "https://github.com/yojowa/withby-plugin",
+  "license": "MIT",
+  "keywords": [
+    "withby",
+    "washington",
+    "mountain passes",
+    "snoqualmie pass",
+    "stevens pass",
+    "road conditions",
+    "road trip",
+    "stories",
+    "travel",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "category": "integrations",
+  "tags": [
+    "withby",
+    "travel",
+    "road-trip",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

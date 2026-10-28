@@ -1,0 +1,34 @@
+{
+  "name": "familylore",
+  "version": "1.0.0",
+  "description": "Reads handwritten family letters in old scripts (Russian and Ukrainian cursive, German Kurrent and Sütterlin, Yiddish) and translates them, with notes on what they meant at the time.",
+  "author": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com",
+    "url": "https://yojowa.com"
+  },
+  "homepage": "https://familylore.ai/assistants",
+  "repository": "https://github.com/yojowa/familylore-plugin",
+  "license": "MIT",
+  "keywords": [
+    "familylore",
+    "handwriting",
+    "old letters",
+    "family history",
+    "genealogy",
+    "kurrent",
+    "sütterlin",
+    "russian cursive",
+    "yiddish",
+    "transcription",
+    "translation",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://familylore.ai/privacy",
+  "mcpServers": {
+    "familylore": {
+      "type": "http",
+      "url": "https://familylore.ai/mcp"
+    }
+  }
+}

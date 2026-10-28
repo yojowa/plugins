@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "familylore": {
+      "type": "http",
+      "url": "https://familylore.ai/mcp"
+    }
+  }
+}

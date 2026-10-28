@@ -1,0 +1,33 @@
+{
+  "name": "yojowa",
+  "owner": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com"
+  },
+  "plugins": [
+    {
+      "name": "familylore",
+      "source": "familylore",
+      "description": "Reads handwritten family letters in old scripts (Russian and Ukrainian cursive, German Kurrent and Sütterlin, Yiddish) and translates them, with notes on what they meant at the time.",
+      "displayName": "FamilyLore"
+    },
+    {
+      "name": "lexitrail",
+      "source": "lexitrail",
+      "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on LexiTrail.",
+      "displayName": "LexiTrail"
+    },
+    {
+      "name": "stockmap",
+      "source": "stockmap",
+      "description": "Every night StockMap's model makes a call on over 4,000 US stocks and keeps a public record of how each call turned out. See a stock's call, the reasons for and against, its record, and the whole market as a map.",
+      "displayName": "StockMap"
+    },
+    {
+      "name": "withby",
+      "source": "withby",
+      "description": "Washington's mountain-pass conditions, checked every few minutes, and hundreds of short stories about the places along the road, told by Sal, WithBy's narrator.",
+      "displayName": "WithBy"
+    }
+  ]
+}

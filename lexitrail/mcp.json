@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lexitrail": {
+      "type": "http",
+      "url": "https://lexitrail.com/mcp"
+    }
+  }
+}

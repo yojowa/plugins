@@ -1,0 +1,34 @@
+{
+  "name": "lexitrail",
+  "displayName": "LexiTrail",
+  "version": "1.0.0",
+  "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on LexiTrail.",
+  "author": {
+    "name": "Yojowa LLC",
+    "email": "support@yojowa.com",
+    "url": "https://yojowa.com"
+  },
+  "homepage": "https://lexitrail.com",
+  "repository": "https://github.com/yojowa/lexitrail-plugin",
+  "license": "MIT",
+  "keywords": [
+    "lexitrail",
+    "chinese",
+    "mandarin",
+    "hsk",
+    "pinyin",
+    "vocabulary",
+    "stroke order",
+    "language learning",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "category": "integrations",
+  "tags": [
+    "lexitrail",
+    "chinese",
+    "language-learning",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

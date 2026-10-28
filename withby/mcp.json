@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "withby": {
+      "type": "http",
+      "url": "https://withby.ai/mcp"
+    }
+  }
+}
