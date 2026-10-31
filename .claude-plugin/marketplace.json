@@ -5,18 +5,13 @@
     "email": "support@yojowa.com"
   },
   "metadata": {
-    "description": "FamilyLore, LexiTrail, StockMap and WithBy for Claude Code"
+    "description": "FamilyLore, StockMap and WithBy for Claude Code"
   },
   "plugins": [
     {
       "name": "familylore",
       "source": "./familylore",
       "description": "Reads handwritten family letters in old scripts (Russian and Ukrainian cursive, German Kurrent and Sütterlin, Yiddish) and translates them, with notes on what they meant at the time."
-    },
-    {
-      "name": "lexitrail",
-      "source": "./lexitrail",
-      "description": "Look up any Chinese word with its pinyin, meaning, HSK level, stroke order and sound, and keep track of the HSK words you are learning on LexiTrail."
     },
     {
       "name": "stockmap",
